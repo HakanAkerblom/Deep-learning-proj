@@ -1,0 +1,5 @@
+större vocab gav bättre acc. från 2000 till 20000
+
+När jag kör hyperbandtuning får jag ofta hyfsat bra val_acc, när jag sedan tränar med dessa parametrar blir den betydligt sämre. Antagligen pga liten datamängd
+
+
